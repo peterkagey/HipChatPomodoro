@@ -17,10 +17,12 @@ Next save the HipChat token into an environment variable in your `.bash_profile`
 
 ## How to use it.
 Clone the repo and `cd` into the project root.
+
 Add an alias to your `.bash_profile`:
 `alias pomodoro="ruby path/to/HipChatPomodoro/script.rb`
-Run, say, `pomodoro 25` to run a 25 minute timer.
-(Without an argument, the timer defaults to 5 minutes.)
+
+Run, say, `pomodoro 25` to run a 25 minute timer. (Without an argument, the timer defaults to 5 minutes.)
+
 At the end of the timer the annoying alarm will go off until you kill the process. (`ctrl+c`)
 
 ### Contributing
