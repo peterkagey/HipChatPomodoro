@@ -10,10 +10,10 @@ Next save the HipChat token into an environment variable in your `.bash_profile`
 `export HIPCHAT_AUTH_TOKEN="h1Pch4TAuTHt0k3n"`
 
 ## What does it do?
-1) Sets your current HipChat status to "do not disturb".
-2) Sets your current HipChat status message to tell folks when they can expect you back.
-3) Switches everything back to normal once the timer's done.
-4) Plays an annoying beep once the timer's done.
+1. Sets your current HipChat status to "do not disturb".
+2. Sets your current HipChat status message to tell folks when they can expect you back.
+3. Switches everything back to normal once the timer's done.
+4. Plays an annoying beep once the timer's done.
 
 ## How to use it.
 Clone the repo and `cd` into the project root.
